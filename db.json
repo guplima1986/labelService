@@ -1,5 +1,8 @@
-[
-  {
+
+"labels": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }{
     "codigo": "50V050371P18",
     "empresa": "Solar CAF - Santa Maria",
     "produto": "350ml sem gás - Crystal Solar",
@@ -21,4 +24,8 @@
     "linhaProducao": 3,
     "dataFabricao": "05/01/2021 07:44:44"
   }
-]
+  ],
+  "users": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
