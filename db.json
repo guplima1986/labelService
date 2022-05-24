@@ -1,33 +1,14 @@
-
 {
-  "labels": [
+  "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }{
-    "codigo": "50V050371P18",
-    "empresa": "Solar CAF - Santa Maria",
-    "produto": "350ml sem gás - Crystal Solar",
-    "marca": "Crystal Solar",
-    "fonte": "Santa Maria",
-    "ph": 5,
-    "temperatura": 27,
-    "linhaProducao": 3,
-    "dataFabricao": "05/01/2021 07:44:44"
-  },
-  {
-    "codigo": "2022ABCD2022",
-    "empresa": "Solar CAF - Santa Maria",
-    "produto": "350ml sem gás - Crystal Solar",
-    "marca": "Crystal Solar",
-    "fonte": "Santa Maria",
-    "ph": 5,
-    "temperatura": 27,
-    "linhaProducao": 3,
-    "dataFabricao": "05/01/2021 07:44:44"
-  }
+    { "id": 3, "title": "Post 3" }
   ],
-  "users": [
+  "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
